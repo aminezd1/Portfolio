@@ -11,11 +11,11 @@
    transition: 0.3s;
    font-size: 14px;
    display: inline-block;
-   border: 2px solid #008037;
+   border: 2px solid black;
  }
  .get-pdf-btn:hover {
-   background: #008037;
-   color: #343a40;
+   background: black;
+   color: #fff;
  }
 
  
